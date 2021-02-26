@@ -1,0 +1,4 @@
+ler(k)
+k = 6 + k
+escrever(k)
+quit
